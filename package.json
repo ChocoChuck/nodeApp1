@@ -1,0 +1,29 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocoChuck/nodeApp1.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Chukwubuikem Oguagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChocoChuck/nodeApp1/issues"
+  },
+  "homepage": "https://github.com/ChocoChuck/nodeApp1#readme"
+}
